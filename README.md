@@ -1,0 +1,2 @@
+# Coffee-Market-Forecast-Using-FB-Prophet-to-Prediction
+This is a very high-caliber project! Using FB Prophet for time series forecasting is a skill that consumer goods and trading firms value immensely. It demonstrates that you don't just analyze the past—you can also predict the future.  To ensure this project stands out on your GitHub, we need to showcase the prediction curve and the seasonality.
